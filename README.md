@@ -21,6 +21,14 @@ The system leverages fMRI brain scan data and a pre-trained VQGAN+CLIP model to 
 - Matplotlib, PIL for visualization
 - fMRI datasets from publicly available sources (e.g., [NSD](https://www.natural-scenes-dataset.org/))
 
+## 🖼️ Preview
+![unnamed](https://github.com/user-attachments/assets/45764f87-d59e-4481-a215-e8be209c71b2)
+
+
+<img width="416" height="512" alt="image" src="https://github.com/user-attachments/assets/9fa735f1-79fc-407e-8c25-b9489eab1a1e" />
+
+
+
 ## 🚀 Getting Started
 
 ### Clone the Repository
